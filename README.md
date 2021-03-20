@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay Schlotterback
 - 👀 I’m interested in Movies, Linux, and Programming
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on OpenSuse projects
+- 🌱 I’m currently learning Vala and GTK+
+- 💞️ I’m looking to collaborate on elementary projects
 - 📫 How to reach me <jawsback@outlook.com>
 
 <!---
